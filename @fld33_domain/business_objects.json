@@ -1,0 +1,1 @@
+{"versions":[{"name":"@fld33_domain/business_objects","version":"0.1.6","cksum":"d035d7f715ef111fb3a033e4f6589862236fa998c991609c67d5d2115518af4a","ontology_iri":"http://field33.com/ontologies/@fld33_domain/business_objects/","deps":[{"name":"@fld33/methodology","req":"^0.1.7"},{"name":"@fld33/organization","req":"^0.1.4"},{"name":"@fld33/relations_0_1_0","req":"^0.1.9"}]}]}
