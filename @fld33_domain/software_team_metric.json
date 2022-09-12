@@ -1,0 +1,1 @@
+{"versions":[{"name":"@fld33_domain/software_team_metric","version":"0.1.6","cksum":"613be679157df3446ccc3e33779ed6b5ff782b27bc726760b5b8a9d374d5c842","ontology_iri":"http://field33.com/ontologies/@fld33_domain/software_team_metric/","deps":[{"name":"@fld33/methodology","req":"^0.1.7"},{"name":"@fld33/relations_0_1_0","req":"^0.1.10"}]}]}
