@@ -1,0 +1,1 @@
+{"versions":[{"name":"@fld33_domain/software_development_metric","version":"0.1.6","cksum":"7d974e8a7c6378f91a842cf963acef1894c23c9512da8bcfbf91a6a98410cb1c","ontology_iri":"http://field33.com/ontologies/@fld33_domain/software_development_metric/","deps":[{"name":"@fld33/methodology","req":"^0.1.7"}]}]}
