@@ -1,0 +1,1 @@
+{"versions":[{"name":"@fld33_domain/software_architecture_metric","version":"0.1.4","cksum":"e6b0ab28ab511e95c7ae543212352d3eb190116a0ec7de39c15024d108a43817","ontology_iri":"http://field33.com/ontologies/@fld33_domain/software_architecture_metric/","deps":[{"name":"@fld33/methodology","req":"^0.1.7"},{"name":"@fld33/relations_0_1_0","req":"^0.1.10"}]}]}
