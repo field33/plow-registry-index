@@ -1,0 +1,1 @@
+{"versions":[{"name":"@fld33/organization_communication","version":"0.2.0","cksum":"49a88dece89ec5fc2d84d7068ff564e0c9cd701a6dc455282dd99d24ac9d6519","ontology_iri":"http://field33.com/ontologies/@fld33/organization_communication/","deps":[{"name":"@fld33/communication","req":"^0.1.2"},{"name":"@fld33/organization","req":"^0.1.4"}]}]}
