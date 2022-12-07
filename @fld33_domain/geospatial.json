@@ -1,0 +1,1 @@
+{"versions":[{"name":"@fld33_domain/geospatial","version":"0.1.0","cksum":"b7c03a622807be289ef4c85473a3601d6e902b97afd37961351c45374dcdcf70","ontology_iri":"http://field33.com/ontologies/@fld33_domain/geospatial/","deps":[{"name":"@fld33/relations","req":"^0.2.0"}]}]}
