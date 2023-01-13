@@ -1,0 +1,1 @@
+{"versions":[{"name":"@apqc/apqc_aerospace_and_defence","version":"0.2.1","cksum":"c735eb65ff11b0040f99c157e147e9731ebeea2e5a16db7a3efe29a4119b5ccd","ontology_iri":"http://field33.com/ontologies/@apqc/apqc_aerospace_and_defence/","deps":[{"name":"@fld33/relations","req":"^0.2.0"},{"name":"@apqc/apqc","req":"^0.1.6"},{"name":"@fld33_domain/business_objects","req":"^0.1.9"}]}]}
