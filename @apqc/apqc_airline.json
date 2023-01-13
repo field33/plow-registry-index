@@ -1,0 +1,1 @@
+{"versions":[{"name":"@apqc/apqc_airline","version":"0.2.1","cksum":"53ad3ceea4b83f2aaa7a837548bcf9115b4c1addaf4b7594ec833946de11ebd1","ontology_iri":"http://field33.com/ontologies/@apqc/apqc_airline/","deps":[{"name":"@fld33/relations","req":"^0.2.0"},{"name":"@apqc/apqc","req":"^0.1.6"},{"name":"@fld33_domain/business_objects","req":"^0.1.9"}]}]}
