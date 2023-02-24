@@ -1,1 +1,1 @@
-{"versions":[{"name":"@foaf_mirror/foaf","version":"0.99.0","cksum":"561d41f14e1956fbd83d1b4c2e51c7cf641c4fa76682731b55af92604975904b","ontology_iri":"http://xmlns.com/foaf/0.1/","deps":[]}]}
+{"versions":[{"name":"@foaf_mirror/foaf","version":"0.99.0","cksum":"561d41f14e1956fbd83d1b4c2e51c7cf641c4fa76682731b55af92604975904b","ontology_iri":"http://xmlns.com/foaf/0.1/","deps":[]},{"name":"@foaf_mirror/foaf","version":"0.99.1","cksum":"9c143cb0492775b2cd49ca01262a1aa55c838aef4db37a6737a72ba23097a4b5","ontology_iri":"http://xmlns.com/foaf/0.1/","deps":[]}]}
