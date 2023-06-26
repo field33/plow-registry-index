@@ -1,0 +1,1 @@
+{"versions":[{"name":"@fld33_domain/portfolio","version":"0.1.9","cksum":"a92c18168d8a5e19ac90b7ffa20e79e4a5b7a45dda44127a44bbca797fe6856b","ontology_iri":"http://field33.com/ontologies/@fld33_domain/portfolio/","deps":[{"name":"@fld33_domain/business_objects","req":"^0.1.14"}]}]}
