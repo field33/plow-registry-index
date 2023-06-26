@@ -1,0 +1,1 @@
+{"versions":[{"name":"@fld33_domain/software_development_artifact","version":"0.1.1","cksum":"82538641f797b9d233a92b1ac305a21e21248a5f7cce533f2c62739039c8b3e0","ontology_iri":"http://field33.com/ontologies/@fld33_domain/software_development_artifact/","deps":[{"name":"@fld33_domain/software_development","req":"^0.3.4"}]}]}
