@@ -1,0 +1,1 @@
+{"versions":[{"name":"@fld33_domain/airbyte_jira","version":"0.1.1","cksum":"8cf80bb26f5ba36b37334d294b80206326b8a6f64222669937ec8947bded4deb","ontology_iri":"http://field33.com/dataset/airbyte_jira/","deps":[{"name":"@fld33_domain/software_development","req":"^0.3.7"},{"name":"@fld33/people","req":"^0.1.5"}]}]}
