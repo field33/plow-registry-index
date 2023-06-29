@@ -1,0 +1,1 @@
+{"versions":[{"name":"@fld33/computation","version":"0.2.2","cksum":"9d5fafd9d6783ac76d1f14b5bd835880ef6455e1d33537eb8bb01cc784b91b79","ontology_iri":"http://field33.com/ontologies/@fld33/computation/","deps":[{"name":"@fno_mirror/function","req":"^1.0.1"}]}]}
